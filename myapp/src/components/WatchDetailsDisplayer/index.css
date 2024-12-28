@@ -1,0 +1,66 @@
+.watch-display-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.watch-display-description-container {
+  text-align: center;
+  margin-top: none;
+  padding-top: none;
+}
+
+.watch-display-img {
+  height: 250px;
+  transition: transform 0.3s ease;
+}
+
+.view-btn-container {
+  margin-bottom: 6px;
+  margin-top: 20px;
+}
+
+.view-btn {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 8px;
+  color: #0071e3;
+  background-color: transparent;
+  border: none;
+  text-decoration: underline;
+}
+
+.series-description {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 8px;
+  color: #6e6e73;
+  margin: 5px;
+}
+
+.watch-name {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 5px;
+  color: #1d1d1f;
+}
+
+.price {
+  font-family: "Roboto";
+  font-weight: medium;
+  font-size: 10px;
+  color: #1d1d1f;
+  margin: 5px;
+}
+
+.selecter-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+}

@@ -1,0 +1,28 @@
+.case-slider-container {
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.cases-container {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 200px;
+}
+
+.case-slider {
+  width: 600px;
+}
+
+.case-img {
+  height: 200px;
+}
+
+.side-case-img {
+  height: 200px;
+}

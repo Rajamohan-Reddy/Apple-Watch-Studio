@@ -1,0 +1,28 @@
+.band-slider-container {
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.band-container {
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.band-slider {
+  width: 1000px;
+}
+
+.case-img {
+  height: 200px;
+}
+
+.side-case-img {
+  height: 200px;
+}

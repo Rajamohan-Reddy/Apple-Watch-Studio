@@ -1,0 +1,51 @@
+.watch-btn {
+  height: 30px;
+  border: none;
+  background-color: #e8e8ed;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.watch-size-and-svg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.watch-size-paragraph {
+  color: #1d1d1f;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 10px;
+  margin-left: 5px;
+}
+
+.size-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.size-list-item {
+  color: #1d1d1f;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 10px;
+  padding-left: 10px;
+}
+
+.full-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
